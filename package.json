@@ -1,0 +1,28 @@
+{
+  "name": "react-learnings",
+  "version": "1.0.0",
+  "description": "This is React Learnings",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdul291095/namaste-react.git"
+  },
+  "author": "Abdul Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdul291095/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Abdul291095/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
